@@ -1,5 +1,4 @@
 The game starts and creates a board of 8 * 8. The program then genrates random numbers from 1-5 and then replaces them with gems. If the 3 numbers generated initially are same, the program replaces the numbers with 0 and then moves the zeros(o) to the first rows. Then the zeros being taken to the first row and replaced with other random numbers which are then again replaced with graphics.
-We can move within the board with the help of cursor. If we want to swap two gems we press enter on the gem and alos press enter on the gem which we want to swap it with. Program then checks for combinations of 3,4,5(elbow) of consecutive same jems and then destroys them and then again numbers are generated, replaced by gems. ( The gems can be seen falling). Meanwhile the score and the time gets updated which is then displayed at the end.
-   
 
- 
+
+We can move within the board with the help of cursor. If we want to swap two gems we press enter on the gem and alos press enter on the gem which we want to swap it with. Program then checks for combinations of 3,4,5(elbow) of consecutive same jems and then destroys them and then again numbers are generated, replaced by gems. ( The gems can be seen falling). Meanwhile the score and the time gets updated which is then displayed at the end.
